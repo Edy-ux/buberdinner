@@ -2,8 +2,9 @@
 POST https://localhost:7104/api/auth/login
 Content-Type: application/json
 
+
 {
-  "Email": "t_ednei.silva@hapvida.com.br",
-  "Password": "hapvida"
+  "email": "silva@hapvida.com.br",
+  "password": "hapvida"
 }
 
